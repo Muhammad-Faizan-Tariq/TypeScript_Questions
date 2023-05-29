@@ -4,7 +4,7 @@ Print the name once, so the whitespace around the name is displayed. Then print 
 the white spaces.*/
 
 var PersonName1: string = "\t Muhammad Faizan Tariq";
-var PersonName2: string = "\n Allam Iqbal \n";
+var PersonName2: string = "\n Allama Iqbal \n";
 
 var Remove_WhitSpace1 = PersonName1.trim();
 var Remove_WhitSpace2 = PersonName2.trim();
